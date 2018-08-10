@@ -16,3 +16,9 @@ config.json
 coverage.*
 lib-cov
 complexity.md
+
+# Coverage directory used by tools like istanbul
+.nyc_output/
+coverage
+
+lib/

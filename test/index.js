@@ -2,10 +2,9 @@
 
 // Load modules
 
-const Code = require('code');
-const Hoek = require('hoek');
-const Lab = require('lab');
-const Topo = require('..');
+const Code = require('@tleef/code');
+const Hoek = require('@tleef/hoek');
+const Topo = require('../src');
 
 
 // Declare internals
@@ -15,7 +14,6 @@ const internals = {};
 
 // Test shortcuts
 
-const { describe, it } = exports.lab = Lab.script();
 const expect = Code.expect;
 
 

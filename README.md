@@ -2,7 +2,9 @@
 
 Topological sorting with grouping support.
 
-[![Build Status](https://secure.travis-ci.org/hapijs/topo.svg?branch=master)](http://travis-ci.org/hapijs/topo)
+![npm (scoped)](https://img.shields.io/npm/v/@tleef/topo.svg)
+![Travis (.org) branch](https://img.shields.io/travis/tleef/topo/release.svg)
+![Coveralls github branch](https://img.shields.io/coveralls/github/tleef/topo/release.svg)
 
 Lead Maintainer: [Devin Ivy](https://github.com/devinivy)
 
